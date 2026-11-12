@@ -168,7 +168,7 @@ ftp>
 
 Com a ajuda do curso e com esses testes analisei as formas de prevenir esse tipo de ataque:
 
-* Senhas fortes, com vários caracteres, símbolos, números ou senhas já vazadas
+* Senhas fortes, com vários caracteres, símbolos, números ou senhas nunca vazadas
 * Bloqueio por IP após perceber várias tentativas de um mesmo IP
 * Usar protocolos criptografados
 * Usar autenticação de dois fatores
